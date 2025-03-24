@@ -1,0 +1,8 @@
+flask
+beautifulsoup4
+requests
+transformers
+nltk
+gtts
+pandas
+torch
